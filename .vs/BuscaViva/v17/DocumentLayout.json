@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maite\\OneDrive\\Documentos\\3ESPV\\Semestre 1\\GS\\C_sharp\\BuscaViva\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C344FB11-61ED-4972-A119-055F6E6352F8}|BuscaViva\\BuscaViva.csproj|c:\\users\\maite\\onedrive\\documentos\\3espv\\semestre 1\\gs\\c_sharp\\buscaviva\\buscaviva\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{C344FB11-61ED-4972-A119-055F6E6352F8}|BuscaViva\\BuscaViva.csproj|solutionrelative:buscaviva\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C344FB11-61ED-4972-A119-055F6E6352F8}|BuscaViva\\BuscaViva.csproj|c:\\users\\maite\\onedrive\\documentos\\3espv\\semestre 1\\gs\\c_sharp\\buscaviva\\buscaviva\\services\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C344FB11-61ED-4972-A119-055F6E6352F8}|BuscaViva\\BuscaViva.csproj|solutionrelative:buscaviva\\services\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\maite\\OneDrive\\Documentos\\3ESPV\\Semestre 1\\GS\\C_sharp\\BuscaViva\\BuscaViva\\README.md",
+              "RelativeDocumentMoniker": "BuscaViva\\README.md",
+              "ToolTip": "C:\\Users\\maite\\OneDrive\\Documentos\\3ESPV\\Semestre 1\\GS\\C_sharp\\BuscaViva\\BuscaViva\\README.md",
+              "RelativeToolTip": "BuscaViva\\README.md",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAABoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-06-01T23:29:00.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\maite\\OneDrive\\Documentos\\3ESPV\\Semestre 1\\GS\\C_sharp\\BuscaViva\\BuscaViva\\Services\\Login.cs",
+              "RelativeDocumentMoniker": "BuscaViva\\Services\\Login.cs",
+              "ToolTip": "C:\\Users\\maite\\OneDrive\\Documentos\\3ESPV\\Semestre 1\\GS\\C_sharp\\BuscaViva\\BuscaViva\\Services\\Login.cs",
+              "RelativeToolTip": "BuscaViva\\Services\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T23:28:50.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

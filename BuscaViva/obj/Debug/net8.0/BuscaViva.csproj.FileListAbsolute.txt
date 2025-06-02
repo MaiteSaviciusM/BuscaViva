@@ -1,0 +1,14 @@
+C:\Users\maite\OneDrive\Documentos\3ESPV\Semestre 1\GS\C_sharp\BuscaViva\BuscaViva\bin\Debug\net8.0\BuscaViva.exe
+C:\Users\maite\OneDrive\Documentos\3ESPV\Semestre 1\GS\C_sharp\BuscaViva\BuscaViva\bin\Debug\net8.0\BuscaViva.deps.json
+C:\Users\maite\OneDrive\Documentos\3ESPV\Semestre 1\GS\C_sharp\BuscaViva\BuscaViva\bin\Debug\net8.0\BuscaViva.runtimeconfig.json
+C:\Users\maite\OneDrive\Documentos\3ESPV\Semestre 1\GS\C_sharp\BuscaViva\BuscaViva\bin\Debug\net8.0\BuscaViva.dll
+C:\Users\maite\OneDrive\Documentos\3ESPV\Semestre 1\GS\C_sharp\BuscaViva\BuscaViva\bin\Debug\net8.0\BuscaViva.pdb
+C:\Users\maite\OneDrive\Documentos\3ESPV\Semestre 1\GS\C_sharp\BuscaViva\BuscaViva\obj\Debug\net8.0\BuscaViva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maite\OneDrive\Documentos\3ESPV\Semestre 1\GS\C_sharp\BuscaViva\BuscaViva\obj\Debug\net8.0\BuscaViva.AssemblyInfoInputs.cache
+C:\Users\maite\OneDrive\Documentos\3ESPV\Semestre 1\GS\C_sharp\BuscaViva\BuscaViva\obj\Debug\net8.0\BuscaViva.AssemblyInfo.cs
+C:\Users\maite\OneDrive\Documentos\3ESPV\Semestre 1\GS\C_sharp\BuscaViva\BuscaViva\obj\Debug\net8.0\BuscaViva.csproj.CoreCompileInputs.cache
+C:\Users\maite\OneDrive\Documentos\3ESPV\Semestre 1\GS\C_sharp\BuscaViva\BuscaViva\obj\Debug\net8.0\BuscaViva.dll
+C:\Users\maite\OneDrive\Documentos\3ESPV\Semestre 1\GS\C_sharp\BuscaViva\BuscaViva\obj\Debug\net8.0\refint\BuscaViva.dll
+C:\Users\maite\OneDrive\Documentos\3ESPV\Semestre 1\GS\C_sharp\BuscaViva\BuscaViva\obj\Debug\net8.0\BuscaViva.pdb
+C:\Users\maite\OneDrive\Documentos\3ESPV\Semestre 1\GS\C_sharp\BuscaViva\BuscaViva\obj\Debug\net8.0\BuscaViva.genruntimeconfig.cache
+C:\Users\maite\OneDrive\Documentos\3ESPV\Semestre 1\GS\C_sharp\BuscaViva\BuscaViva\obj\Debug\net8.0\ref\BuscaViva.dll
